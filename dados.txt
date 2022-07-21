@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Felipe Câmara Barreto
+-Profissão: Estudante
+-Cidade: Brasília
+-O que faz nas horas vaga: Música e ir para fazenda
+-Feedback sobre o curso Qualidade de Software: As aulas são fantásticas. Professor com ótima didática e nos dá muito apoio para realizar tarefas e entender o conteúdo. As aulas são preparadas com muito carinho e ótima qualidade.
+-Feedback sobre a plataforma de estudo da EBAC: Voltar e rever uma aula no mesmo módulo é complicado, pois a plataforma sempre abre na aula 1. Daí é necessário ter que desce tudo para achar a aula no modulo que está estudando. Segundo, A música de introdução é muito demorada, 20 seg. O restante, estou curtindo a experiência na plataforma. 
 
 Obrigado!!!
 
